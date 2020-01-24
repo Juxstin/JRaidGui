@@ -15,3 +15,7 @@
 - Proxy Support
 - Looping
 - Remove Dead Tokens
+
+
+
+![Preview](https://i.imgur.com/SlVQQOq.png)
