@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRaidGui", "JRaidGui\JRaidGui.csproj", "{E6F03D66-DA33-414E-AE71-06EC10E8237B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6F03D66-DA33-414E-AE71-06EC10E8237B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6F03D66-DA33-414E-AE71-06EC10E8237B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6F03D66-DA33-414E-AE71-06EC10E8237B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6F03D66-DA33-414E-AE71-06EC10E8237B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DC81FC-A9C6-4D65-88A9-762BD13DA0C0}
+	EndGlobalSection
+EndGlobal
