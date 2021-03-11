@@ -21,3 +21,8 @@
 
 
 ![Preview](https://i.imgur.com/SlVQQOq.png)
+
+
+
+# [Deprecated]
+- Use -> https://github.com/JReverse/JRaidRewritten
